@@ -2,7 +2,7 @@
 
 **Full Stack Engineer** · Node.js · NestJS · React · Next.js · API Integrations
 
-I build booking platforms and connect systems that were never designed to talk to each other: supplier APIs, payment gateways and messaging platforms. Most of my work is making integrations reliable when the other side isn't.
+I build web platforms and connect systems that were never designed to talk to each other: third-party APIs, payment gateways and messaging platforms. Most of my work is making integrations reliable when the other side isn't.
 
 ### 🛠️ What I work on
 
